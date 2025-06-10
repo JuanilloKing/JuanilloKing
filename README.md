@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**JuanilloKing/JuanilloKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola,Soy Eduardo!
 
-Here are some ideas to get you started:
+Soy un **desarrollador junior** de Cádiz, España 🇪🇸, con ganas de seguir aprendiendo y creciendo en el mundo del desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tecnologías que manejo
+
+### 💻 Lenguajes de programación
+- **PHP**
+- **Python**
+- **Java**
+- **JavaScript**
+
+### 🌐 Lenguajes de marcas y estilos
+- **HTML**
+- **CSS**
+
+### 🗄️ Bases de datos
+- **PostgreSQL**
+
+---
+
+## 🛠️ Otros conocimientos
+- Conocimientos básicos de **placas ESP32**, trabajado con ella por medio de Arduino.
+- Nivel de inglés: **B1 (Cambridge)**.
+- Carnet de conducir en vigor 🚗.
+
+---
+
+## 💬 Sobre mí
+Me gusta trabajar en equipo, resolver problemas de forma práctica y aprender nuevas tecnologías. Siempre estoy buscando nuevos retos y formas de mejorar como desarrollador. Si tienes un proyecto interesante o quieres colaborar, ¡no dudes en escribirme!
+
+---
+
+#
+
+📫 Puedes contactarme a través de GitHub o por correo si lo deseas.
+
+# Estadísticas de Github
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuanilloKing&theme=highcontrast&locale=es)](https://git.io/streak-stats)
