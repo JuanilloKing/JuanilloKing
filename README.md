@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola,Soy Eduardo!
+# 👋 ¡Hola,me llamo Eduardo!
 
 Soy un **desarrollador junior** de Cádiz, España 🇪🇸, con ganas de seguir aprendiendo y creciendo en el mundo del desarrollo de software.
 
