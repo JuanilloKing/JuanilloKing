@@ -12,6 +12,7 @@ Soy un **desarrollador junior** de Cádiz, España 🇪🇸, con ganas de seguir
 - **Python**
 - **Java**
 - **JavaScript**
+- **Dart**
 
 ### 🌐 Lenguajes de marcas y estilos
 - **HTML**
@@ -19,6 +20,7 @@ Soy un **desarrollador junior** de Cádiz, España 🇪🇸, con ganas de seguir
 
 ### 🗄️ Bases de datos
 - **PostgreSQL**
+- **MySQL**
 
 ---
 
@@ -37,6 +39,11 @@ Me gusta trabajar en equipo, resolver problemas de forma práctica y aprender nu
 #
 
 📫 Puedes contactarme a través de GitHub o por correo si lo deseas.
+
+O si quieres de manera mas amplia ver mis apututides, aqui te dejo mi portfolio :)
+
+[Eduardo Sumariva | Portfolio](https://juanilloking.github.io/portfolio/)
+
 
 # Estadísticas de Github
 
