@@ -40,7 +40,7 @@ Me gusta trabajar en equipo, resolver problemas de forma práctica y aprender nu
 
 📫 Puedes contactarme a través de GitHub o por correo si lo deseas.
 
-O si quieres de manera mas amplia ver mis apututides, aqui te dejo mi portfolio :)
+O si quieres de manera mas amplia ver mis aptitudes,o hecharle un vistazo a mi CV actualizado, aqui te dejo mi portfolio :)
 
 [Eduardo Sumariva | Portfolio](https://juanilloking.github.io/portfolio/)
 
