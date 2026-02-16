@@ -1,12 +1,8 @@
-# 👋 ¡Hola, soy Eduardo Sumariva!
+# 👋 ¡Hola,me llamo Eduardo!
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Estado-Junior_Developer-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Localización-Cádiz,_España_🇪🇸-orange?style=for-the-badge">
-</p>
 
-Soy un **Desarrollador Junior** con titulación en **DAW** (Desarrollo de Aplicaciones Web) y actualmente cursando **DAM** (Desarrollo de Aplicaciones Multiplataforma). Me apasiona resolver problemas y aprender nuevas tecnologías, desde el backend hasta el desarrollo móvil con Flutter.
 
+Soy un **desarrollador junior** de Cádiz, España 🇪🇸, con ganas de seguir aprendiendo y creciendo en el mundo del desarrollo de software, con titulación en DAW, y DAM.
 ---
 
 ### 🛠️ Tecnologías que manejo
@@ -21,10 +17,9 @@ Soy un **Desarrollador Junior** con titulación en **DAW** (Desarrollo de Aplica
 
 ### 💡 Otros Conocimientos & Aptitudes
 
-* 🔌 **Hardware:** Experimentación con placas **ESP32** y ecosistema Arduino.
-* 🇬🇧 **Idiomas:** Inglés nivel **B1 (Cambridge)**.
-* 🚗 **Otros:** Carnet de conducir B y plena movilidad.
-* 👥 **Soft Skills:** Trabajo en equipo, resolución de problemas prácticos y proactividad.
+* Experimentación con placas **ESP32** y ecosistema Arduino.
+* Inglés nivel **B1 (Cambridge)**.
+* Carnet de conducir B y plena movilidad.
 
 ---
 
@@ -37,5 +32,5 @@ Soy un **Desarrollador Junior** con titulación en **DAW** (Desarrollo de Aplica
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanilloking&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanilloKing&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
