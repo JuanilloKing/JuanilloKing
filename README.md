@@ -1,39 +1,49 @@
-# 👋 ¡Hola,me llamo Eduardo!
+# 👋 ¡Hola, soy Eduardo Sumariva!
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Perfil-Fullstack_Junior-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Formación-DAW_%2B_DAM-orange?style=for-the-badge">
+</p>
 
+Soy un desarrollador de **Sanlúcar de Barrameda (Cádiz)** 🇪🇸. Mi enfoque principal es el desarrollo de aplicaciones robustas y escalables. Me defino por mi **actitud positiva**, **perseverancia** y capacidad para **trabajar bajo presión**.
 
-Soy un **desarrollador junior** de Cádiz, España 🇪🇸, con ganas de seguir aprendiendo y creciendo en el mundo del desarrollo de software, con titulación en DAW, y DAM.
 ---
 
-### 🛠️ Tecnologías que manejo
+### 🛠️ Stack Tecnológico
 
 | Categoría | Herramientas |
 | :--- | :--- |
-| **Lenguajes** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
-| **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) |
+| **Frameworks** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
+| **Herramientas** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
 
 ---
 
-### 💡 Otros Conocimientos & Aptitudes
+### 📜 Certificaciones Destacadas
 
-* Experimentación con placas **ESP32** y ecosistema Arduino.
-* Inglés nivel **B1 (Cambridge)**.
-* Carnet de conducir B y plena movilidad.
+* 🐳 **Introducción a Docker** - OpenWebinars (Nov 2025)
+* 🐍 **Web Development with Python** - IBM SkillsBuild (Nov 2025)
+* 📊 **Fundamentos del Big Data** - Agencia Digital de Andalucía
+* 🇬🇧 **B1 English** - Cambridge Assessment English
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanilloKing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats de JuanilloKing" height="180px"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanilloKing&theme=tokyonight&hide_border=true" alt="Streak de JuanilloKing" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanilloKing&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de JuanilloKing" height="165px"/>
+</p>
 
 ---
 
 ### 🚀 Contacto & Portfolio
 
-¡Si tienes un proyecto interesante o quieres colaborar, hablemos!
+[![Portfolio](https://img.shields.io/badge/Eduardo_Portfolio-Ver_Aptitudes-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://juanilloking.github.io/portfolio/)
 
-[![Portfolio](https://img.shields.io/badge/Mira_mi_Portfolio-Haz_click_aquí-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://juanilloking.github.io/portfolio/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanilloKing&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
+📫 **Email:** eduardosumarivasalgado@gmail.com
