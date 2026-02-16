@@ -31,8 +31,13 @@ Soy un **desarrollador junior** de Cádiz, España 🇪🇸, con ganas de seguir
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanilloKing&show_icons=true&theme=radical" alt="Estadísticas de JuanilloKing" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanilloKing&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanilloKing&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanilloKing&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanilloKing&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
