@@ -28,16 +28,17 @@ Soy un desarrollador de **Sanlúcar de Barrameda (Cádiz)** 🇪🇸. Mi enfoque
 
 ---
 
-## 📊 Mi Actividad en GitHub
+## 📊 Estadísticas Detalladas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JuanilloKing&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanilloKing&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanilloKing&theme=tokyonight" alt="Detalles de JuanilloKing" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JuanilloKing&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanilloKing&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanilloKing&theme=tokyonight" height="150" />
 </p>
+
 ---
 
 ### 🚀 Contacto & Portfolio
