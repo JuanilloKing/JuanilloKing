@@ -32,7 +32,7 @@ Soy un **desarrollador junior** de Cádiz, España 🇪🇸, con ganas de seguir
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanilloKing&show_icons=true&theme=radical" alt="Estadísticas de Eduardo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanilloKing&show_icons=true&theme=radical" alt="Estadísticas de JuanilloKing" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanilloKing&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
